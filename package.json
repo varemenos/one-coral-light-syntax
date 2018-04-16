@@ -1,13 +1,14 @@
 {
-  "name": "one-light-syntax",
+  "name": "one-coral-light-syntax",
   "theme": "syntax",
   "version": "1.8.2",
-  "description": "Atom One light syntax theme",
+  "description": "Atom One light syntax theme, coral edition",
   "keywords": [
     "light",
+    "coral",
     "syntax"
   ],
-  "repository": "https://github.com/atom/one-light-syntax",
+  "repository": "https://github.com/varemenos/one-coral-light-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.40.0"
